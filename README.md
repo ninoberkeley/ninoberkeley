@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anthony James
+- 👀 I’m interested in machine learning and game programming
+- 🌱 I’m currently learning how to code
+- 📫 How to reach me xxninoxx8@gmail.com
